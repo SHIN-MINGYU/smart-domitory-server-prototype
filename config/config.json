@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "@tlsalsrb123",
+    "database": "domitory",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "admin",
+    "password": "tlsalsrb123",
+    "database": "dormitory",
+    "host": "database-1.cyb2hr14pcd2.ap-northeast-2.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "192.168.0.159",
+    "dialect": "mysql"
+  }
+}
